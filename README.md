@@ -15,10 +15,21 @@
 🎯 Problem Solving: 200+ LeetCode problems solved. <br>
 🔬 Research Interests: Predictive Maintenance, Machine Learning, Robotics, Signal Processing, and Intelligent Systems. <br>
 
-📫 Let's Connect:
-""GitHub" (https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)" (https://github.com/Piyushsrivastava914)
-""LinkedIn" (https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)" (https://www.linkedin.com/in/piyush-kumar-srivastava-75446a38b)
-""Portfolio" (https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)" (https://piyushsrivastava914.github.io/srivastavapiyush215135.github.io/)
+📫 **Let's Connect**
+
+<p align="left">
+  <a href="https://github.com/Piyushsrivastava914">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/piyush-kumar-srivastava-75446a38b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://piyushsrivastava914.github.io/srivastavapiyush215135.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
