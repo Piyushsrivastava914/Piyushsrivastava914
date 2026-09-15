@@ -190,21 +190,17 @@ Tech: Python • Pandas • Data Analysis • RFM Analysis • Data Visualizatio
 https://e-commerce-customer-and-sales-analy-neon.vercel.app/
 
 ---
-
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Piyushsrivastava914&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushsrivastava914&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushsrivastava914&langs_count=8&theme=tokyonight&layout=compact" width="300px" />
-</p>---
-
-🎯 My Contributions & Activity
+</p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyushsrivastava914&theme=github_dark" width="800px" />
-</p>---
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushsrivastava914&langs_count=8&theme=tokyonight&layout=compact" width="300px"/>
+</p>
 🏆 Achievements & Certifications
 
 🏅 200+ LeetCode Problems Solved <br>
