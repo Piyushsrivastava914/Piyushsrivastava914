@@ -1,9 +1,9 @@
 <!-- Animated Header --><h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&width=600&lines=Hello,+I'm+Piyush+Kumar+Srivastava!+👋;Welcome+to+my+GitHub!+🚀" />
-</h1><!-- Profile Banner --><p align="center">
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" />
-</p>---
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif"
+       width="700"
+       alt="Developer Animation"/>
+</p>
 🌟 About Me
 
 👤 Name: Piyush Kumar Srivastava. <br>
